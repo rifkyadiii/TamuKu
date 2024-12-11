@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TamuKu</string>
+    <string name="logout">Logout</string>
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="message">Message</string>
+    <string name="save">Save</string>
+    <string name="login">Login</string>
+    <string name="password">Password</string>
+    <string name="tidak_punya_akun_registrasi">Tidak punya akun? Registrasi</string>
+</resources>
